@@ -25,3 +25,14 @@ console.log(a,b,c,d,e,f,g);
 console.log(typeof e);
 
 // Objects ==> they are non primitive
+
+const items = {
+    "Ayesha" : true,
+    "Sara" : false,
+    "Sadia" : 100,
+    "Abdullah" : undefined
+}
+console.log(items["Ayesha"]);
+
+
+// inka use kidhr hota hai agr ahame students list banani ho unhe call krne ke lie like just a practice code
