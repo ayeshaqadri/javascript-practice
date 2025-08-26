@@ -129,3 +129,7 @@ multiline comment */
 // console.log(x!=y || x==y || x===y); ans wil be true but if all value will be falsw then ans will be false like 
 // console.log(x==y || x>=y || x===y); now ans is false
 
+
+
+
+// github is not working but why?????
