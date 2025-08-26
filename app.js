@@ -1,3 +1,9 @@
+// COMMENTS IN JS 
+// this is a single line comment
+/*and this
+is a
+multiline comment */
+
 // Primitives and Objects in JavaScript
 
 // Primitives
@@ -86,3 +92,40 @@
 // console.log("a-- = ", a--);    8
 // console.log("a++ = ", a++);    7
 // value : 8
+// let a = 8
+// value :9
+
+// console.log("a-- = ", a--);    8
+// console.log("a = ", a);        7
+// console.log("a++ = ", a++);    7
+// console.log("++a = ", ++a);    9
+// console.log("a++ = ", a++);    9
+// console.log("a-- = ", a--);    10
+
+// ASSINGMENT OPERATORS
+// =    x=y
+// +=   x=x+y
+// -=   x=x-y
+// *=   x=x*y
+// /=   x=x/y
+// +%   x=x%y
+// +**   x=x**y
+
+// COMPARISSION OPERATORS
+
+    // [ == , != , === , <= , >= ]
+
+
+// LOGICAL OPERATORS
+// &&
+// let x = 5;
+// let y = 6;
+// console.log(x<y && x!=y);
+// ans will be (true)
+
+// || agr ek bhi valu true hogai tho true hi return karega like
+// let x = 3;
+// let y = 7;
+// console.log(x!=y || x==y || x===y); ans wil be true but if all value will be falsw then ans will be false like 
+// console.log(x==y || x>=y || x===y); now ans is false
+
