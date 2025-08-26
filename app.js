@@ -68,3 +68,21 @@
 // console.log(words);
 
 // console.log("Structure");
+
+
+// OPERATORS & EXPRRESIONS
+//  1 + 3 = 4
+//  1 ANS 3 is our operants
+//  + is our operator
+//  4 is ur result 
+
+
+// increament and decrement 
+// let a = 5
+// // let b = 8
+// console.log("a++ = ", a++);    5
+// console.log("++a = ", ++a);    7
+// console.log("a++ = ", a++);    7
+// console.log("a-- = ", a--);    8
+// console.log("a++ = ", a++);    7
+// value : 8
