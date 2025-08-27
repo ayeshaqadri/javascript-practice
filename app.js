@@ -129,6 +129,9 @@ multiline comment */
 // console.log(x!=y || x==y || x===y); ans wil be true but if all value will be falsw then ans will be false like 
 // console.log(x==y || x>=y || x===y); now ans is false
 
+// Conditional expressions
 
+let a = prompt("what is your name ?????")
+console.log(typeof a);
 
-
+alert("this is called alesrt" )
