@@ -7,7 +7,7 @@ multiline comment */
 // Primitives and Objects in JavaScript
 
 // Primitives
-         
+
 //   VALUES     :    MEANING
 
 // N = NULL          ek esa variable jisme kuch hai hi nahi...   
@@ -43,7 +43,7 @@ multiline comment */
 
 // inka use kidhr hota hai agr ahame students list banani ho unhe call krne ke lie like just a practice code
 
-                            // DAY 2
+// DAY 2
 
 
 //                             QUISTION NO 1
@@ -113,7 +113,7 @@ multiline comment */
 
 // COMPARISSION OPERATORS
 
-    // [ == , != , === , <= , >= ]
+// [ == , != , === , <= , >= ]
 
 
 // LOGICAL OPERATORS
@@ -131,7 +131,34 @@ multiline comment */
 
 // Conditional expressions
 
-let a = prompt("what is your name ?????")
-console.log(typeof a);
+// let a = prompt("How old are you ?????")
+// a = Number.parseInt(a);
+// if (a > 18) {
+//     alert("you can Enter!!!")
 
-alert("this is called alesrt" )
+// }
+// else{
+// alert("sorry you can't Enter")
+// }
+
+// let a = prompt("how old are you ??");
+// a = Number.parseInt(a);
+// if (a<0) {
+//     alert("Don't even think about it!!");
+// }
+// else if (a<10){
+//     alert("Sorry!! you cannot drive at this age.");
+// }
+// else if (a<18 && a>=10) {
+//     alert("you can drive a car but in a video games...");   
+// }
+// else{
+//     alert("YES!!! you can drive a car---");
+// }
+
+// console.log("you can drive" , (a<18? "not drive" : "drive"));
+
+
+
+
+// Explor switch statement and write a basic program
