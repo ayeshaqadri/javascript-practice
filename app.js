@@ -156,9 +156,71 @@ multiline comment */
 //     alert("YES!!! you can drive a car---");
 // }
 
-// console.log("you can drive" , (a<18? "not drive" : "drive"));
+// console.log("you can " , (a<18? "not drive" : "drive"));
+
+// condition likho agar condition true hai to 1 wala run hoga or agar false hai to 2 wala run hoga
+
+// let a = prompt("write your percentage");
+// a = Number.parseInt(a);
+// if (a>=80) {
+//     alert("you got A-1 grade");
+// }
+// else if (a<=79 && a>=70) {
+//     alert("you got A grade");
+// }
+// else if (a<=69 && a>=60) {
+//     alert("you got B grade");
+// }
+// else if (a<=59 && a>=50) {
+//     alert("you got C grade");
+// }
+// else if (a<=49 && a>=40) {
+//     alert("you got D grade");
+// }
+// else if (a<=39 && a>=33) {
+//     alert("you got E grade");
+// }
+// else {
+//     alert("you are FAIL bacha")
+// }
+// console.log("I feel" , (a>=33? "proud of you" : "bad for you"));
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// HOMEWORK
 // Explor switch statement and write a basic program
+
+
+// let a = prompt("what is your name");
+// if (a==ayesha) {
+//     alert("Welcom!! maam");
+// } else {
+//     alert("you cannot enter");
+// }
+// console.log("YOUR  NAME IS", (a = princess ? "sara " : "AYESHA"));
