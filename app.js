@@ -187,6 +187,34 @@ multiline comment */
 
 
 
+// jo value di hai wo bhi add krna hai to = lagao =< isme like 10=<20 agar 20 or 10 ko add krna hai to = lagao
+
+//                             QUISTION NO 1
+// let age = prompt("enter your age");
+// if (age>10 && age<20) {
+//     alert("you can enter")
+// } else {
+//     alert("no cannot enter")
+// }
+//                             QUISTION NO 2
+// let age = prompt("your age");
+// switch (age) {
+//     case '15':
+//         console.log("your age is not valide");
+//         break;
+//     case '16':
+//         console.log("not a valide age");
+//         break;
+//     case '17':
+//         console.log("yes you can enter");
+//         break;
+//     default:
+//         console.log("agaeeeeee");
+//         break;
+// }
+
+
+
 
 
 
