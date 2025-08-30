@@ -213,20 +213,47 @@ multiline comment */
 //         break;
 // }
 
+            // LOOPS
+// FOR LOOP
+// WHILE LOOP
+// DO WHILE LOOP
+// FOR OF LOOP
+// FOR IN LOOP
+            // FOR LOOP
+/*for (let i = 0 ; i < 10 ; i++){
+    console.log(i);
+}
+let mul = 2
+let a = prompt("write any num to know their squar");
+a = Number.parseInt(a);
+for (let i = 1; i < a; i++) {
+    mul *= (i * 2)
+}
 
+console.log(mul +" is a squar of " + a );*/
 
+// FOR IN LOOP   [ye jub use hota hai jub hame sirf keys ko excess krna ho] 
 
-
-
-
-
-
-
-
-
-
-
-
+// let obj = {
+//     ayesha : 100,
+//     sara : 90,
+//     munawar : 85,
+//     abdullah : 50
+// }
+// for (let a in obj) {
+//     console.log("marks of " + a + " are " + obj[a]);
+// }
+// let coll = {
+//     BMW : 3,
+//     ROLLSROYCE : 2,
+//     SUPRA : 1,
+//     BUGATI : 1,
+//     GWAGON : 1
+// }
+// for (let a in coll) {
+//     console.log("Amount of each car with brand name i have is " + a +" "+ coll[a] );
+    
+// }
 
 
 
@@ -244,11 +271,3 @@ multiline comment */
 // HOMEWORK
 // Explor switch statement and write a basic program
 
-
-// let a = prompt("what is your name");
-// if (a==ayesha) {
-//     alert("Welcom!! maam");
-// } else {
-//     alert("you cannot enter");
-// }
-// console.log("YOUR  NAME IS", (a = princess ? "sara " : "AYESHA"));
