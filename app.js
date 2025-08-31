@@ -255,10 +255,34 @@ console.log(mul +" is a squar of " + a );*/
     
 // }
 
+// WHILE LOOP     [jub condition true hogi to chalega loop]
+
+// let a = prompt("enter any numnber");
+// a = Number.parseInt(a);
+// let i = 0;
+// while (i<a) {
+//     console.log(i);
+//     i++;
+// }DO WHILE LOOP   [CONDITION BAAD ME CHEACK HOGI CODE PEHLE RUN HOGA 1 baar zaroor run hoga]
+// let a = prompt("enter any number")
+// a = Number.parseInt(a);
+// let i = 0;
+// do {
+//     console.log(i);
+//     i++; 
+// } while (i<a);
 
 
 
+                    // FUNCTION
+// let a = 2;
+// let b = 9;
+// let c = 3;
 
+// console.log("sum of a and b " , (a+b));
+// console.log("sum of a and b " , (a*b));
+// console.log("sum of a and b " , (a-b));
+// console.log("sum of a and b " , (a/b));
 
 
 
