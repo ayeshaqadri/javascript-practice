@@ -275,14 +275,89 @@ console.log(mul +" is a squar of " + a );*/
 
 
                     // FUNCTION
+// function sum(x,y) {
+//     return 2 + (x + y) / 2
+// }
+
 // let a = 2;
 // let b = 9;
 // let c = 3;
 
-// console.log("sum of a and b " , (a+b));
-// console.log("sum of a and b " , (a*b));
-// console.log("sum of a and b " , (a-b));
-// console.log("sum of a and b " , (a/b));
+// console.log("sum of a and b " , sum(a,b));
+// console.log("sum of a and b " , sum(a,b));
+// console.log("sum of a and b " , sum(a,b));
+// console.log("sum of a and b " , sum(a,b));
+
+// const greeting = ()=> {
+//     console.log("how are you ...");
+//     return("I'm fine")
+// }
+// let a = greeting();
+// console.log(a);
+
+//                             QUISTION NO 1
+// let marks = {
+//     ayesha : 100,
+//     sara : 80,
+//     abdullah : 50
+// }
+// for (let i=0; i<Object.keys(marks).length; i++) {
+//     console.log("The marks of " + Object.keys(marks)[i] + "are " +marks[Object.keys(marks)[i]]);
+// }
+//                             QUISTION NO 2
+// for (let key in marks) {
+//     console.log("The marks of " + key + "are " + marks[key]
+//     );
+    
+// }
+//                             QUISTION NO 3
+// let crn = 5;
+// let que = prompt("Enter the correct number!!!");
+// que = Number.parseInt(que);
+// if (crn === que) {
+//     alert("correct answer");
+// }
+// else{
+//     alert("wrong number");
+// }
+
+// let crn = 5;
+// let i 
+// while (i != crn) {
+//     i = prompt("Enter a correct number!!!");
+// }
+// alert("YES!!! 5 is correct number");
+
+        //     STRINGS
+// let name = "AYESHA QADRI"
+// console.log(nam);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
