@@ -331,7 +331,7 @@ console.log(mul +" is a squar of " + a );*/
         //     STRINGS
 // let name = "AYESHA QADRI"
 // console.log(nam);
-
+//  ajj string ka kaam krna hai but time nahi
 
 
 
