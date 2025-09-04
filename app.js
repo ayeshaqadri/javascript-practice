@@ -332,35 +332,6 @@ console.log(mul +" is a squar of " + a );*/
 // let name = "AYESHA QADRI"
 // console.log(nam);
 
-//  ajj string ka kaam krna hai but time nahi hai
-// ajj bhi nahi hai time
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -371,4 +342,6 @@ console.log(mul +" is a squar of " + a );*/
 
 // HOMEWORK
 // Explor switch statement and write a basic program
-
+//  ajj string ka kaam krna hai but time nahi hai
+// ajj bhi nahi hai time
+// same for today
