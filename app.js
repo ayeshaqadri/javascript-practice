@@ -343,3 +343,5 @@ console.log(mul +" is a squar of " + a );*/
 // HOMEWORK
 // Explor switch statement and write a basic program
 // Promise, loops, and so on
+// kuch nahi parha ajj bhi
+// kal se parhenge
