@@ -345,3 +345,5 @@ console.log(mul +" is a squar of " + a );*/
 // Promise, loops, and so on
 // kuch nahi parha ajj bhi
 // kal se parhenge
+// aj ka bahana barish hogai
+// kal se
