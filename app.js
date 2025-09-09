@@ -347,3 +347,4 @@ console.log(mul +" is a squar of " + a );*/
 // kal se parhenge
 // aj ka bahana barish hogai
 // kal se
+// same as yesterday
