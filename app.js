@@ -44,7 +44,7 @@ multiline comment */
 // inka use kidhr hota hai agr ahame students list banani ho unhe call krne ke lie like just a practice code
 
 // DAY 2
-
+                                //  TEST
 
 //                             QUISTION NO 1
 // let a = "Ayesha"
@@ -188,7 +188,7 @@ multiline comment */
 
 
 // jo value di hai wo bhi add krna hai to = lagao =< isme like 10=<20 agar 20 or 10 ko add krna hai to = lagao
-
+                                //  Test
 //                             QUISTION NO 1
 // let age = prompt("enter your age");
 // if (age>10 && age<20) {
@@ -346,8 +346,3 @@ console.log(mul +" is a squar of " + a );*/
 // HOMEWORK
 // Explor switch statement and write a basic program
 // Promise, loops, and so on
-// kuch nahi parha ajj bhi
-// kal se parhenge
-// aj ka bahana barish hogai
-// kal se
-// same as yesterday
