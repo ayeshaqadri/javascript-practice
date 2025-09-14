@@ -334,6 +334,18 @@ console.log(mul +" is a squar of " + a );*/
 //
 
 
+// let crn = 6;
+// let i 
+// while (i != crn) {
+//     i = prompt("Enter a correct number!!!");
+// }
+// alert("YES!!! 6 is correct number");
+
+        //     STRINGS
+// let name = "sara QADRI"
+// console.log(nam);
+//
+
 
 
 
