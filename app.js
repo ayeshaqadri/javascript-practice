@@ -321,32 +321,18 @@ console.log(mul +" is a squar of " + a );*/
 //     alert("wrong number");
 // }
 
-// let crn = 5;
-// let i 
-// while (i != crn) {
-//     i = prompt("Enter a correct number!!!");
+
+
+//                             QUISTION NO 1
+// let marks = {
+//     ayesha : 100,
+//     sara : 80,
+//     abdullah : 50
 // }
-// alert("YES!!! 5 is correct number");
-
-        //     STRINGS
-// let name = "AYESHA QADRI"
-// console.log(nam);
-//
-
-
-// let crn = 6;
-// let i 
-// while (i != crn) {
-//     i = prompt("Enter a correct number!!!");
+// for (let i=0; i<Object.keys(marks).length; i++) {
+//     console.log("The marks of " + Object.keys(marks)[i] + "are " +marks[Object.keys(marks)[i]]);
 // }
-// alert("YES!!! 6 is correct number");
-
-        //     STRINGS
-// let name = "sara QADRI"
-// console.log(nam);
-//
-
-
+//         
 
 
 
