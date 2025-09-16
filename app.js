@@ -321,21 +321,26 @@ console.log(mul +" is a squar of " + a );*/
 //     alert("wrong number");
 // }
 
+// STRING
+// let name = "Ayesha"
+// console.log(name[0]);
+// console.log(name[1]);
+// console.log(name[2]);
+// console.log(name[3]);
+// console.log(name[4]);
+// console.log(name[5]);
 
+// TEMPLATE LITRALS                   they use backtics ` ` instead of quotes ' ' , " "
+// let girl1 = 'Ayesha'
+// let girl2 = 'sara'
+// let sentence = `girl1 is a sister of girl2`
+// let sentence = `${girl1} and ${girl2} are sisters`
+// console.log(sentence);
 
-//                             QUISTION NO 1
-// let marks = {
-//     ayesha : 100,
-//     sara : 80,
-//     abdullah : 50
-// }
-// for (let i=0; i<Object.keys(marks).length; i++) {
-//     console.log("The marks of " + Object.keys(marks)[i] + "are " +marks[Object.keys(marks)[i]]);
-// }
-//         
-
-
-
+// ESCAPE SEQUENCE CHARACTERS
+// let sentence1 = 'i din\'t know about it'
+// let sentence2 = 'bana\na'
+// console.log(sentence2);
 
 
 
@@ -343,4 +348,3 @@ console.log(mul +" is a squar of " + a );*/
 
 // HOMEWORK
 // Explor switch statement and write a basic program
-// Promise, loops, and so on
