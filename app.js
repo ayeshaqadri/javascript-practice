@@ -342,9 +342,88 @@ console.log(mul +" is a squar of " + a );*/
 // let sentence2 = 'bana\na'
 // console.log(sentence2);
 
+// let name = "AYESHA";
+// console.log(name.toUpperCase());
+// console.log(name.toLowerCase());
+
+// SLICE METHOD
+// console.log(name.slice(1,4));
+// console.log(name.slice(2));
+// console.log(name.replace("AYE" , "WHY"));
+// let freind = "SARA";
+// console.log(name.concat(" is a freind of ", freind));
+
+
+// let fr ="ayesha";
+// console.log(fr[0]);
+// console.log(fr[1]);
+// console.log(fr[2]);
+// console.log(fr[3]);
+// console.log(fr[4]);
+// console.log(fr[5]);
+
+// for (let i = 0; i<=5; i++) {
+//     console.log(fr);
+    
+// }
+// console.log("AYE\"".length);     ANS => 4
+
+                        // QUESTION No. 1
+
+// let sentece = "Please give Rs 1000";
+// console.log(sentece.slice(15));
+
+                        // QUESTION No. 2
+// let line = 'were you able to do it ?'
+// console.log(line.replace('do' , 'bear'));
+
+// ARRAYS
+// let board_grades = ["A-1", "A", "F", "Coming Soon!!"]
+// board_grades[3] = "C";
+// console.log(board_grades[0]);
+// console.log(board_grades[1]);
+// console.log(board_grades[2]);
+// console.log(board_grades[3]);
+// console.log(board_grades[4]);      undefined
+// console.log("board grades of complete 4 years are", board_grades.length);
+// board_grades[2] = "D";
+// console.log(board_grades);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 // HOMEWORK
 // Explor switch statement and write a basic program
+
+
+
+
+
+
+
