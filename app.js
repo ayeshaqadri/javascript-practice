@@ -389,7 +389,18 @@ console.log(mul +" is a squar of " + a );*/
 // board_grades[2] = "D";
 // console.log(board_grades);
 
-
+// rub this=
+// ARRAYS
+// let board_grades = ["A-1", "A", "F", "Coming Soon!!"]
+// board_grades[3] = "C";
+// console.log(board_grades[0]);
+// console.log(board_grades[1]);
+// console.log(board_grades[2]);
+// console.log(board_grades[3]);
+// console.log(board_grades[4]);      undefined
+// console.log("board grades of complete 4 years are", board_grades.length);
+// board_grades[2] = "D";
+// console.log(board_grades);
 
 
 
