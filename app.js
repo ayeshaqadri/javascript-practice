@@ -389,31 +389,35 @@ console.log(mul +" is a squar of " + a );*/
 // board_grades[2] = "D";
 // console.log(board_grades);
 
-// rub this=
-// ARRAYS
-// let board_grades = ["A-1", "A", "F", "Coming Soon!!"]
-// board_grades[3] = "C";
-// console.log(board_grades[0]);
-// console.log(board_grades[1]);
-// console.log(board_grades[2]);
-// console.log(board_grades[3]);
-// console.log(board_grades[4]);      undefined
-// console.log("board grades of complete 4 years are", board_grades.length);
-// board_grades[2] = "D";
-// console.log(board_grades);
+// ARRAY METHOD
+// let num = [1, 8, 24, 20]
+// let a = num.toString();
+// console.log(a);
 
+// join
+// let num = [2, 5, 66, 786];
+// let a = num.join("+");
+// console.log(a, typeof );
 
+// POP
+// let a = num.pop()
+// console.log(num, a);  a likhne se nIkala hoa element wapis ata hai 
 
+// push
+// let a = num.push(2008)
+// console.log(num, a);     add an element 
 
+// let a = num.shift()
+// console.log(num, a);       remove the element
 
+// unshift
+// let a = num.unshift(1)
+// console.log(num, a);      add an element     
 
-
-
-
-
-
-
-
+// delete
+// console.log(num.length);
+// delete num[0]
+// console.log(num.length);
 
 
 
