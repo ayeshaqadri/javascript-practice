@@ -438,6 +438,21 @@ console.log(mul +" is a squar of " + a );*/
 // console.log(num.length);
 
 
+// push
+// let a = num.push(2008)
+// console.log(num, a);     add an element 
+
+// let a = num.shift()
+// console.log(num, a);       remove the element
+
+// unshift
+// let a = num.unshift(1)
+// console.log(num, a);      add an element     
+
+// delete
+// console.log(num.length);
+// delete num[0]
+// console.log(num.length);
 
 
 
