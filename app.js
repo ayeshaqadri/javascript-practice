@@ -1,3 +1,4 @@
+                                                                        // JAVASCRIPT PRACTICE
 // COMMENTS IN JS 
 // this is a single line comment
 /*and this
@@ -419,11 +420,7 @@ console.log(mul +" is a squar of " + a );*/
 // delete num[0]
 // console.log(num.length);
 
-// rub this
-// delete
-// console.log(num.length);
-// delete num[0]
-// console.log(num.length);
+
 
 
 
