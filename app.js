@@ -1,4 +1,4 @@
-                                                                        // JAVASCRIPT PRACTICE
+// JAVASCRIPT PRACTICE
 // COMMENTS IN JS 
 // this is a single line comment
 /*and this
@@ -45,7 +45,7 @@ multiline comment */
 // inka use kidhr hota hai agr ahame students list banani ho unhe call krne ke lie like just a practice code
 
 // DAY 2
-                                //  TEST
+//  TEST
 
 //                             QUISTION NO 1
 // let a = "Ayesha"
@@ -189,7 +189,7 @@ multiline comment */
 
 
 // jo value di hai wo bhi add krna hai to = lagao =< isme like 10=<20 agar 20 or 10 ko add krna hai to = lagao
-                                //  Test
+//  Test
 //                             QUISTION NO 1
 // let age = prompt("enter your age");
 // if (age>10 && age<20) {
@@ -214,13 +214,13 @@ multiline comment */
 //         break;
 // }
 
-            // LOOPS
+// LOOPS
 // FOR LOOP
 // WHILE LOOP
 // DO WHILE LOOP
 // FOR OF LOOP
 // FOR IN LOOP
-            // FOR LOOP
+// FOR LOOP
 /*for (let i = 0 ; i < 10 ; i++){
     console.log(i);
 }
@@ -253,7 +253,7 @@ console.log(mul +" is a squar of " + a );*/
 // }
 // for (let a in coll) {
 //     console.log("Amount of each car with brand name i have is " + a +" "+ coll[a] );
-    
+
 // }
 
 // WHILE LOOP     [jub condition true hogi to chalega loop]
@@ -275,7 +275,7 @@ console.log(mul +" is a squar of " + a );*/
 
 
 
-                    // FUNCTION
+// FUNCTION
 // function sum(x,y) {
 //     return 2 + (x + y) / 2
 // }
@@ -309,7 +309,7 @@ console.log(mul +" is a squar of " + a );*/
 // for (let key in marks) {
 //     console.log("The marks of " + key + "are " + marks[key]
 //     );
-    
+
 // }
 //                             QUISTION NO 3
 // let crn = 5;
@@ -365,16 +365,16 @@ console.log(mul +" is a squar of " + a );*/
 
 // for (let i = 0; i<=5; i++) {
 //     console.log(fr);
-    
+
 // }
 // console.log("AYE\"".length);     ANS => 4
 
-                        // QUESTION No. 1
+// QUESTION No. 1
 
 // let sentece = "Please give Rs 1000";
 // console.log(sentece.slice(15));
 
-                        // QUESTION No. 2
+// QUESTION No. 2
 // let line = 'were you able to do it ?'
 // console.log(line.replace('do' , 'bear'));
 
@@ -420,7 +420,10 @@ console.log(mul +" is a squar of " + a );*/
 // delete num[0]
 // console.log(num.length);
 
-
+// sort
+// let num = [123, 33, 76, 975, 4, 9, 48, 29];
+// num.sort();
+// console.log(num);
 
 
 
