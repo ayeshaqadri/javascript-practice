@@ -435,10 +435,19 @@ console.log(mul +" is a squar of " + a );*/
 // numb.sort();
 // console.log(numb);
 
-// sort
-// let numb = [3536, 27,  083, 975, 4, 9, 45, 29];
-// numb.sort();
-// console.log(numb);
+// ARRAYS
+// let board_grades = ["A-1", "A", "F", "Coming Soon!!"]
+// board_grades[3] = "C";
+// console.log(board_grades[0]);
+// console.log(board_grades[1]);
+// console.log(board_grades[2]);
+// console.log(board_grades[3]);
+// console.log(board_grades[4]);      undefined
+// console.log("board grades of complete 4 years are", board_grades.length);
+// board_grades[2] = "D";
+// console.log(board_grades);
+
+
 
 
 
