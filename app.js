@@ -430,22 +430,21 @@ console.log(mul +" is a squar of " + a );*/
 
 
 // delete from here
-// sort
-// let numb = [378, 338, 08, 975, 4, 9, 45, 29];
-// numb.sort();
-// console.log(numb);
 
-// ARRAYS
-// let board_grades = ["A-1", "A", "F", "Coming Soon!!"]
-// board_grades[3] = "C";
-// console.log(board_grades[0]);
-// console.log(board_grades[1]);
-// console.log(board_grades[2]);
-// console.log(board_grades[3]);
-// console.log(board_grades[4]);      undefined
-// console.log("board grades of complete 4 years are", board_grades.length);
-// board_grades[2] = "D";
-// console.log(board_grades);
+// let fr ="ayesha";
+// console.log(fr[0]);
+// console.log(fr[1]);
+// console.log(fr[2]);
+// console.log(fr[3]);
+// console.log(fr[4]);
+// console.log(fr[5]);
+
+// for (let i = 0; i<=5; i++) {
+//     console.log(fr);
+
+// }
+// console.log("AYE\"".length);     ANS => 4
+
 
 
 
