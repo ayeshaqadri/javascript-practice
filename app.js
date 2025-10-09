@@ -445,6 +445,14 @@ console.log(mul +" is a squar of " + a );*/
 // }
 // console.log("AYE\"".length);     ANS => 4
 
+// console.log(num.length);
+// delete num[0]
+// console.log(num.length);
+
+// sort
+// let num = [123, 33, 76, 975, 4, 9, 48, 29];
+// num.sort();
+// console.log(num);
 
 
 
