@@ -1,5 +1,5 @@
 // JAVASCRIPT PRACTICE
-// COMMENTS IN JS 
+// COMMENTS IN JS
 // this is a single line comment
 /*and this
 is a
@@ -11,13 +11,13 @@ multiline comment */
 
 //   VALUES     :    MEANING
 
-// N = NULL          ek esa variable jisme kuch hai hi nahi...   
+// N = NULL          ek esa variable jisme kuch hai hi nahi...
 // N = NUMBER        simple its just a number
 // S = SYMBOL        simple its just a symbol
 // S = STRING        " " ander di hoa naam etc
 // B = BOOLEAN
 // B = BIGINT
-// U = UNDEFINED      kuch dia hi nahi hai value me 
+// U = UNDEFINED      kuch dia hi nahi hai value me
 
 // let a = null;
 // let b = 158;
@@ -62,7 +62,7 @@ multiline comment */
 //     carrier : "Web and app develper"
 // }
 // a ['name'] = "Ayesha qadri"
-// a ['Date of birth'] = "1-05-2008" 
+// a ['Date of birth'] = "1-05-2008"
 
 // console.log(a);
 //                             QUISTION NO 4
@@ -81,10 +81,10 @@ multiline comment */
 //  1 + 3 = 4
 //  1 ANS 3 is our operants
 //  + is our operator
-//  4 is ur result 
+//  4 is ur result
 
 
-// increament and decrement 
+// increament and decrement
 // let a = 5
 // // let b = 8
 // console.log("a++ = ", a++);    5
@@ -127,7 +127,7 @@ multiline comment */
 // || agr ek bhi valu true hogai tho true hi return karega like
 // let x = 3;
 // let y = 7;
-// console.log(x!=y || x==y || x===y); ans wil be true but if all value will be falsw then ans will be false like 
+// console.log(x!=y || x==y || x===y); ans wil be true but if all value will be falsw then ans will be false like
 // console.log(x==y || x>=y || x===y); now ans is false
 
 // Conditional expressions
@@ -151,7 +151,7 @@ multiline comment */
 //     alert("Sorry!! you cannot drive at this age.");
 // }
 // else if (a<18 && a>=10) {
-//     alert("you can drive a car but in a video games...");   
+//     alert("you can drive a car but in a video games...");
 // }
 // else{
 //     alert("YES!!! you can drive a car---");
@@ -233,7 +233,7 @@ for (let i = 1; i < a; i++) {
 
 console.log(mul +" is a squar of " + a );*/
 
-// FOR IN LOOP   [ye jub use hota hai jub hame sirf keys ko excess krna ho] 
+// FOR IN LOOP   [ye jub use hota hai jub hame sirf keys ko excess krna ho]
 
 // let obj = {
 //     ayesha : 100,
@@ -270,7 +270,7 @@ console.log(mul +" is a squar of " + a );*/
 // let i = 0;
 // do {
 //     console.log(i);
-//     i++; 
+//     i++;
 // } while (i<a);
 
 
@@ -402,18 +402,18 @@ console.log(mul +" is a squar of " + a );*/
 
 // POP
 // let a = num.pop()
-// console.log(num, a);  a likhne se nIkala hoa element wapis ata hai 
+// console.log(num, a);  a likhne se nIkala hoa element wapis ata hai
 
 // push
 // let a = num.push(2008)
-// console.log(num, a);     add an element 
+// console.log(num, a);     add an element
 
 // let a = num.shift()
 // console.log(num, a);       remove the element
 
 // unshift
 // let a = num.unshift(1)
-// console.log(num, a);      add an element     
+// console.log(num, a);      add an element
 
 // delete
 // console.log(num.length);
@@ -424,7 +424,3 @@ console.log(mul +" is a squar of " + a );*/
 // let num = [123, 33, 76, 975, 4, 9, 48, 29];
 // num.sort();
 // console.log(num);
-    
-
-
-
